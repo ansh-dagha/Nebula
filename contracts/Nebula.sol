@@ -5,7 +5,6 @@ import "@chainlink/contracts/src/v0.8/VRFConsumerBase.sol";
 import "@chainlink/contracts/src/v0.8/interfaces/KeeperCompatibleInterface.sol";
 
 /// @title A loyalty program contract
-/// @author 0xMampudi
 /// @notice You can use this contract to take part in the Nebula loyalty program
 /// @dev All function calls are currently implemented without side effects
 contract Nebula is VRFConsumerBase, KeeperCompatibleInterface{
