@@ -1,6 +1,1 @@
 Nebula Contract (Goerli): 0xE48af0695c8aF8cD90332E5e3cDCEDDb70aE5EB1
-
-GitHub Repository: https://github.com/mampudi/blockchain-developer-bootcamp-final-project
-
-
-kgang
